@@ -7,6 +7,8 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Learning](https://img.shields.io/badge/KodeKloud-Learning-orange)
 
+
+
 [![My Skills](https://skillicons.dev/icons?i=linux,debian,docker,git,github,py,bash,postgres,redis)](https://skillicons.dev)
 ------------------------------
 Personal infrastructure laboratory focused on System Administration,
@@ -50,8 +52,37 @@ Planned Certifications
 - LFCS
 ----------------------
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelJesusAssmann&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelJesusAssmann&layout=compact&theme=dark)
+
+-------------------
 
 
+## 🖥️ Current Infrastructure
+
+| Technology | Status |
+|------------|---------|
+| Hyper-V | ✅ |
+| Windows Server 2022 | ✅ |
+| Active Directory | ✅ |
+| Debian Server | ✅ |
+| Docker | ✅ |
+
+---
+
+## 🎯 Current Roadmap
+
+- [x] Hyper-V
+- [x] Active Directory
+- [x] Debian Server
+- [x] Docker
+- [ ] Linux Essentials
+- [ ] Network+
+- [ ] AZ-900
+- [ ] LFCS
+
+-------------------
   Repositories
 
 | Project | Description |
